@@ -1,6 +1,7 @@
 {
   "name": "kariyerplanlamaapp",
   "version": "1.0.0",
+  "packageManager": "npm@10.7.0",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
